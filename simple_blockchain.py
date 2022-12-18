@@ -1,4 +1,4 @@
-### Author: Carolus ###
+### Author: Soulacex ###
 
 """
 This code defines a Block class, which represents a single block in the blockchain. Each block has a timestamp, some data, the hash of the previous block, and a hash that is calculated from the block's data and previous hash.
